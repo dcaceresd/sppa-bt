@@ -1,0 +1,3208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root BTCPP_format="4">
+  <BehaviorTree ID="MainTree">
+    <Fallback>
+          <Sequence>
+            <Condition ID="seed_0" />
+            <Condition ID="goal_03_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions0a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions0a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions0a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_0" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions0a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions0a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions0a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_10" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions10a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions10a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions10a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_11" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions11a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions11a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_08_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions11a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions11a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions11a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_12" />
+            <Condition ID="goal_01_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions12a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions12a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions12a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions12a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions12a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions13a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions13a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions13a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="seed_13" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions13a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions13a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_13" />
+            <Condition ID="goal_06_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions13a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_14" />
+            <Condition ID="goal_01_start" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions14a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions14a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions14a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_14" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions14a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions14a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions15a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions15a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_15" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions15a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions15a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions15a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions15a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions16a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions16a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions16a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions16a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions16a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions17a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions17a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_17" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions17a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="seed_17" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions17a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_18" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions18a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_18" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions18a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions18a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions18a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions19a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="seed_19" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions19a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_19" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions19a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_06_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions19a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_1" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions1a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_1" />
+            <Condition ID="goal_06_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions1a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_1" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions1a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions20a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_10_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions20a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_21" />
+            <Condition ID="goal_01_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions21a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_21" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions21a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions21a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions22a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_22" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions22a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions22a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions22a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions23a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="seed_49" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions23a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions23a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions23a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions23a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_24" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions24a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_24" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions24a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions24a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions24a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions24a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions25a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions25a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions25a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions25a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_26" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions26a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions26a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions26a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_27" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions27a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_18" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions27a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions27a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions27a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_27" />
+            <Condition ID="goal_06_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions27a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_28" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions28a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions28a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_29" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions29a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions29a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_29" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions29a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions29a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions2a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions2a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_30" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions30a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_30" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions30a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions30a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions30a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions30a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions30a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_31" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions31a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions31a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_31" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions31a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions31a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions32a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_32" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions32a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_32" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions32a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions33a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions33a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions33a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions33a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_34" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions34a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions34a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions34a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions34a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_34" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions34a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions35a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_35" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions35a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_36" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions36a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions36a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_36" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions36a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_01_start" />
+            <Inverter>
+              <Condition ID="seed_13" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions36a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions37a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions37a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_37" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions37a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions37a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions37a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions38a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions38a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_50" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions39a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_39" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions39a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_3" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions3a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_40" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions40a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions41a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_41" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions41a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_42" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions42a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions42a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="seed_42" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions42a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_43" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions43a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_43" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions43a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_43" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions43a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_43" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions43a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_40" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions43a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_44" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions44a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions44a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions44a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_37" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions44a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_43" />
+            </Inverter>
+            <Action ID="actions44a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_1" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions45a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_45" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions45a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_46" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions46a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions46a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions46a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_47" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions47a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="seed_47" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions47a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions47a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_47" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions47a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_48" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions48a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="seed_48" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions48a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions48a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_49" />
+            <Condition ID="goal_06_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions49a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_49" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions49a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions49a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions49a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_4" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions4a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_08_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions4a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions50a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_50" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions50a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_50" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions50a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="seed_24" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions51a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_51" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions51a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions51a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions51a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions51a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions51a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions52a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_52" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions52a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="seed_53" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions53a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_54" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions54a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions54a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_55" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions55a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="seed_55" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions55a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions55a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_56" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions56a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions56a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_39" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions56a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions56a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_57" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions57a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_59" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions59a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_08_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_31" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions5a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_5" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions5a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_08_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions5a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions5a9" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_52" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions60a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_60" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions60a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="seed_61" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions61a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions61a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_61" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions61a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions62a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_62" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions62a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_63" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions63a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions63a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="seed_63" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions63a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_65" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions65a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_65" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions65a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="seed_65" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions65a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_05_start" />
+            <Condition ID="seed_65" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions65a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions66a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions67a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="seed_67" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions67a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_68" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions68a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_69" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions69a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_6" />
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions6a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_6" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions6a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="seed_36" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions6a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions70a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="seed_0" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions70a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_71" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions71a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_71" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions71a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_05_start" />
+            <Condition ID="seed_72" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions72a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_73" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions73a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_73" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions73a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_05_start" />
+            <Condition ID="seed_73" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions73a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_74" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions74a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_76" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions76a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions77a3" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_77" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions77a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_78" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions78a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions79a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_35" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions79a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="seed_17" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions7a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_10_start" />
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_08_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions80a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="goal_08_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions80a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="seed_81" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions81a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_81" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions81a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_82" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions82a10" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="seed_82" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Action ID="actions82a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_36" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions83a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_05_start" />
+            <Condition ID="seed_83" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions83a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_84" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions84a7" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_85" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions85a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="seed_85" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions85a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="seed_86" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions86a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_07_start" />
+            <Condition ID="seed_8" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions8a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_03_start" />
+            <Condition ID="goal_06_start" />
+            <Condition ID="goal_05_start" />
+            <Inverter>
+              <Condition ID="seed_49" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_51" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions8a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_03_start" />
+            <Condition ID="seed_8" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions8a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions90a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_90" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions90a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_91" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions91a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="seed_91" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions91a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_05_start" />
+            <Condition ID="seed_91" />
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Action ID="actions91a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_05_start" />
+            <Condition ID="goal_07_start" />
+            <Inverter>
+              <Condition ID="goal_04_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="seed_83" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions92a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_08_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_02_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_09_start" />
+            </Inverter>
+            <Action ID="actions93a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_08_start" />
+            <Condition ID="seed_93" />
+            <Inverter>
+              <Condition ID="goal_07_start" />
+            </Inverter>
+            <Action ID="actions93a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_02_start" />
+            <Condition ID="goal_07_start" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions94a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_07_start" />
+            <Condition ID="seed_95" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions95a2" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_95" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_06_start" />
+            </Inverter>
+            <Action ID="actions95a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_08_start" />
+            <Condition ID="seed_96" />
+            <Inverter>
+              <Condition ID="goal_05_start" />
+            </Inverter>
+            <Action ID="actions96a6" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_01_start" />
+            <Condition ID="seed_98" />
+            <Inverter>
+              <Condition ID="goal_03_start" />
+            </Inverter>
+            <Action ID="actions98a4" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="seed_98" />
+            <Condition ID="goal_09_start" />
+            <Inverter>
+              <Condition ID="goal_08_start" />
+            </Inverter>
+            <Action ID="actions98a8" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_04_start" />
+            <Condition ID="seed_99" />
+            <Inverter>
+              <Condition ID="goal_01_start" />
+            </Inverter>
+            <Action ID="actions99a5" />
+          </Sequence>
+          <Sequence>
+            <Condition ID="goal_06_start" />
+            <Condition ID="seed_9" />
+            <Inverter>
+              <Condition ID="goal_10_start" />
+            </Inverter>
+            <Action ID="actions9a7" />
+          </Sequence>
+    </Fallback>
+  </BehaviorTree>
+</root>

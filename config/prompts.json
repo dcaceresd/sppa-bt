@@ -1,0 +1,9 @@
+{
+  "basic": "Localize a series of activity events in the video, output the start and end timestamp for each action, and describe each event as a robot action. Each event should be a single action. Provide the result in json format with 'mm:ss.ff' format for time depiction.",
+  
+  "detailed": "Localize a series of activity events in the video, output the start and end timestamp for each action, and describe each event as a robot action. Each event should be a single action (e.g. The robot ...) Every moment in the video must be accounted for — no time gaps between events. Provide the result in json format with 'mm:ss.ff' format for time depiction.",
+  
+  "objects_prompt": "List all the objects that are in the video without their location. Include the table but do not include the human or the robot. Provide the result in json format.",
+  
+  "conditioned_base": "Include the start_time and end_time for the following events only if they exist in the video. {previous_output} Other events that are not listed should be also provided. Provide the result in json format with 'mm:ss.ff' format for time depiction, with no time gaps between events."
+}
